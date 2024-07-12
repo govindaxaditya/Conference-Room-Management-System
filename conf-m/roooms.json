@@ -1,0 +1,34 @@
+[
+	{
+		"name" : "Conference Room 1",
+		"rentperday":1500,
+		"maxcount":30,
+		"phonenumber":8844455123,
+		"currentbookings":[
+			]
+	},
+	
+	{
+		"name" : "Conference Room 2",
+		
+		"rentperday":1200,
+		
+		"maxcount":40,
+		"phonenumber":8844875123,
+		"currentbookings":[
+			]
+	},
+
+	{
+		"name" : "Conference Room 3",
+		
+		"rentperday":1500,
+		
+		"maxcount":50,
+		"phonenumber":9964875123,
+		"currentbookings":[
+			]
+	}
+
+	
+]
